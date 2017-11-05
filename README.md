@@ -1,2 +1,2 @@
-# projects
-Projects subdomain for hosting projects literally
+# Thomas Mai's Projects
+Subdomain was made for literally hosting projects
